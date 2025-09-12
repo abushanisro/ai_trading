@@ -1,4 +1,4 @@
-![AI Trading Dashboard](https://raw.githubusercontent.com/abushanisro/ai_trading/90cdb07ff76124959c3b87fb0edaa744c94c17f8/Advance.svg?token=ATLI6NUWYIQJB2QDQTFY2ETIYQCO6)
+![AI Trading Dashboard](https://raw.githubusercontent.com/abushanisro/ai_trading/c95b0e66d684615e09f27b044ac78f697ed74e11/Advance.svg?token=ATLI6NXV7YOZH2SQEFPUTPTIYRVDA)
 
 
 # Professional Trading Dashboard
