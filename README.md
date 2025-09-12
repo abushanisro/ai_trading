@@ -1,3 +1,5 @@
+[!image](https://raw.githubusercontent.com/abushanisro/ai_trading/7ed58a0cbf07b82f6fafc9694946d902e6fb277e/Advance.svg)
+
 # Professional Trading Dashboard
 
 This is a professional trading dashboard that fetches real market data from Binance and displays it with advanced technical analysis features and enhanced AI predictions.
