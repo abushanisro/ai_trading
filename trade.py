@@ -81,11 +81,11 @@ sentiment_pipeline = None  # Lazy load in functions
 
 # Configuration - Use environment variables for security
 import os
-BINANCE_API_KEY = os.getenv("BINANCE_API_KEY", "geARpnfp2sSbmb1IPRArLlYMrO4C5UAZtoHIgH9JGmVa1qR9u9Ue30YyTRekqGNH")
-BINANCE_SECRET = os.getenv("BINANCE_SECRET", "OC5UrkXX9cfqEtzMFToZxH1p6SJO7g7fCXpERMevN5uFLCTwJ3xHdxZevX72YTiw")
+BINANCE_API_KEY = os.getenv("BINANCE_API_KEY", "")
+BINANCE_SECRET = os.getenv("BINANCE_SECRET", "")
 
 # Warning for production use
-if BINANCE_API_KEY == "geARpnfp2sSbmb1IPRArLlYMrO4C5UAZtoHIgH9JGmVa1qR9u9Ue30YyTRekqGNH":
+if BINANCE_API_KEY == ":
     print("WARNING: Using default API keys. Please set BINANCE_API_KEY and BINANCE_SECRET environment variables for production use.")
 
 binance_client = None
